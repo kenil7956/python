@@ -23,6 +23,7 @@ f.close()
 # w+ => read and overwrite,                truncate
 # a+ => read and append, pointer end, no truncate
 
+# with syntax (when use with syntax so don't need to close the file is make automatically)
 with open("practice.txt", "r") as f:
     data = f.read()
     print(data)

@@ -4,7 +4,7 @@
 # 1. while
 # 2. for
 
-# while
+# while (jyare khabr na hoy ketlivar loop farse tyare use thay)
 # sytax
 while (condition):
     # statement
@@ -32,7 +32,7 @@ while i <= 10:
 
 
 
-# for (used for sequential traversal, For list, string, tuples etc.)
+# for (used for sequential traversal, For list, string, tuples etc.) (jyare khabr hoy ketlivar loop farse tyare use thay)
 # syntax
 sequence = "list, string, tuples etc."
 for var in sequence:

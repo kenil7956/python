@@ -14,4 +14,12 @@ len()
 type()
 range()
 
-# User defined functions
+# User defined functions (UDF)
+
+
+# default parameters
+def clc_sum(a=1, b=2):
+    print(a + b)
+    return a + b
+    
+clc_sum()
